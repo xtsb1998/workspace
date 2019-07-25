@@ -1,3 +1,5 @@
 Git是一个分布式管理系统
 是林纳斯·托瓦兹用两周时间写的
 linux的开源社区只用了一个月就完成了迁移
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
